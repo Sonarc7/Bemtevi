@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Point Manrathan - Exposição</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .item {
+            margin-bottom: 40px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 20px;
+        }
+        .item h2 {
+            color: #3498db;
+        }
+        .item img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Point Manrathan</h1>
+    </header>
+    
+    <main>
+        <section class="item">
+            <h2>Item 1: A História de Manrathan</h2>
+            <p>Explore a fascinante história de Manrathan, desde suas origens até os dias atuais. Descubra como esta região se transformou ao longo dos séculos e se tornou um ponto de referência cultural e econômico.</p>
+            <img src="/api/placeholder/600/400" alt="História de Manrathan">
+        </section>
+
+        <section class="item">
+            <h2>Item 2: Arquitetura Icônica</h2>
+            <p>Manrathan é conhecida por sua skyline deslumbrante e edifícios emblemáticos. Nesta seção, apresentamos alguns dos arranha-céus mais famosos e sua importância arquitetônica.</p>
+            <img src="/api/placeholder/600/400" alt="Arquitetura de Manrathan">
+        </section>
+
+        <section class="item">
+            <h2>Item 3: Cultura e Artes</h2>
+            <p>De museus renomados a galerias de arte de vanguarda, Manrathan é um centro cultural vibrante. Descubra as principais atrações artísticas e eventos culturais que tornam esta região única.</p>
+            <img src="/api/placeholder/600/400" alt="Cultura em Manrathan">
+        </section>
+
+        <section class="item">
+            <h2>Item 4: Gastronomia Local</h2>
+            <p>A cena gastronômica de Manrathan é tão diversa quanto sua população. Explore os sabores únicos, desde restaurantes estrelados até comida de rua autêntica que reflete a rica herança culinária da região.</p>
+            <img src="/api/placeholder/600/400" alt="Gastronomia de Manrathan">
+        </section>
+
+        <section class="item">
+            <h2>Item 5: Vida Noturna e Entretenimento</h2>
+            <p>Quando o sol se põe, Manrathan ganha vida de uma maneira totalmente nova. Descubra os melhores locais para música ao vivo, clubes noturnos e espetáculos de teatro que fazem a noite de Manrathan brilhar.</p>
+            <img src="/api/placeholder/600/400" alt="Vida Noturna em Manrathan">
+        </section>
+    </main>
+</body>
+</html>
